@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2013\Projects\CSharpApplication\CSharpApplication\bin\Debug\CSharpApplication.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\CSharpApplication\CSharpApplication\bin\Debug\CSharpApplication.exe
+c:\users\pc\documents\visual studio 2013\Projects\CSharpApplication\CSharpApplication\bin\Debug\CSharpApplication.pdb
+c:\users\pc\documents\visual studio 2013\Projects\CSharpApplication\CSharpApplication\obj\Debug\CSharpApplication.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\CSharpApplication\CSharpApplication\obj\Debug\CSharpApplication.exe
+c:\users\pc\documents\visual studio 2013\Projects\CSharpApplication\CSharpApplication\obj\Debug\CSharpApplication.pdb
